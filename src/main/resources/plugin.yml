@@ -1,0 +1,6 @@
+name: KaneCommandAPI
+version: 1.0
+main: org.kane.kcm.KaneCommandAPI
+api-version: 1.20
+description: Command API for Kane Purposes
+author: Kanemoto Yamato Maaku
